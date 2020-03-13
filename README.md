@@ -1,4 +1,6 @@
 # StrainSeeker
+Note: This is a forked version of StrainSeeker that is modified to be wrapped into Bioconda
+
 A bacterial identification program for fast identification of bacterial strains from raw sequencing reads
 
 Project home page, pre-computed databases, guide tree and WEB TOOL available from http://bioinfo.ut.ee/strainseeker

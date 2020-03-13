@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 # For building k-mer tree databases from Newick tree files and bacteria fasta files for StrainSeeker's seeker.pl
 # First build: 21jan2015 by M2rt Roosaare and Mihkel Vaher
 # IMPORTANT!!! FASTA file names must be exactly the same as the names in the tree file, with suffix .fna.

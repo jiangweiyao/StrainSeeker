@@ -1,3 +1,5 @@
+#!/usr/bin/env perl
+
 # For more information or help visit http://bioinfo.ut.ee/strainseeker
 
 use strict;
