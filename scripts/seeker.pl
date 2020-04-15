@@ -65,7 +65,8 @@ if (!@sample_fasta){
 }
 
 if ($version){
-	die "Seeker v1.5\n";
+	print "Seeker v1.5\n";
+	exit 0;
 }
 
 if ((!$tree_data_final) || (!@sample_fasta) || ($help)){
